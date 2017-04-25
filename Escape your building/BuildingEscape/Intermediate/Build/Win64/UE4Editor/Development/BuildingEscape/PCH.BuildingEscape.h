@@ -1,4 +1,4 @@
-// PCH for C:\Users\raghu\Documents\Visual Studio 2017\Projects\BuildingEscape_03\BuildingEscape\Source\BuildingEscape\BuildingEscape.h
+// PCH for C:\Users\raghu\Documents\cpp_projects\Unreal\Escape your building\BuildingEscape\Source\BuildingEscape\BuildingEscape.h
 #define UE_EDITOR 1
 #define IS_PROGRAM 0
 #define WITH_DEV_AUTOMATION_TESTS 1
@@ -116,4 +116,4 @@
 #define MESHUTILITIES_API 
 #define KISMET_API DLLIMPORT
 #define NETWORKREPLAYSTREAMING_API 
-#include "C:\Users\raghu\Documents\Visual Studio 2017\Projects\BuildingEscape_03\BuildingEscape\Source\BuildingEscape\BuildingEscape.h"
+#include "C:\Users\raghu\Documents\cpp_projects\Unreal\Escape your building\BuildingEscape\Source\BuildingEscape\BuildingEscape.h"

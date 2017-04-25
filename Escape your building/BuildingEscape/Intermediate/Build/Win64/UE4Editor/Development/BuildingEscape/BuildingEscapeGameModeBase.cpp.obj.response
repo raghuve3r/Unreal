@@ -23,9 +23,9 @@
 /wd4838
 /w44668
 /I "C:\Program Files\Epic Games\UE_4.15\Engine\Source"
-/I "C:\Users\raghu\Documents\Visual Studio 2017\Projects\BuildingEscape_03\BuildingEscape\Source"
-/I "C:\Users\raghu\Documents\Visual Studio 2017\Projects\BuildingEscape_03\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Inc\BuildingEscape"
-/I "C:\Users\raghu\Documents\Visual Studio 2017\Projects\BuildingEscape_03\BuildingEscape\Source\BuildingEscape"
+/I "C:\Users\raghu\Documents\cpp_projects\Unreal\Escape your building\BuildingEscape\Source"
+/I "C:\Users\raghu\Documents\cpp_projects\Unreal\Escape your building\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Inc\BuildingEscape"
+/I "C:\Users\raghu\Documents\cpp_projects\Unreal\Escape your building\BuildingEscape\Source\BuildingEscape"
 /I "C:\Program Files\Epic Games\UE_4.15\Engine\Source\Runtime\Core\Public"
 /I "C:\Program Files\Epic Games\UE_4.15\Engine\Source\Runtime\Core\Public\Internationalization"
 /I "C:\Program Files\Epic Games\UE_4.15\Engine\Source\Runtime\Core\Public\Async"
@@ -303,11 +303,11 @@
 /I "C:\Program Files\Epic Games\UE_4.15\Engine\Source\Editor\Kismet"
 /I "C:\Program Files\Epic Games\UE_4.15\Engine\Source\Runtime\NetworkReplayStreaming\NetworkReplayStreaming\Public"
 /I "C:\Program Files\Epic Games\UE_4.15\Engine\Source\Runtime\NetworkReplayStreaming\NetworkReplayStreaming"
-/FI"C:\Users\raghu\Documents\Visual Studio 2017\Projects\BuildingEscape_03\BuildingEscape\Source\BuildingEscape\BuildingEscape.h"
-/Yu"C:\Users\raghu\Documents\Visual Studio 2017\Projects\BuildingEscape_03\BuildingEscape\Source\BuildingEscape\BuildingEscape.h"
-/Fp"C:\Users\raghu\Documents\Visual Studio 2017\Projects\BuildingEscape_03\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\PCH.BuildingEscape.h.pch"
-"C:\Users\raghu\Documents\Visual Studio 2017\Projects\BuildingEscape_03\BuildingEscape\Source\BuildingEscape\BuildingEscapeGameModeBase.cpp"
-/Fo"C:\Users\raghu\Documents\Visual Studio 2017\Projects\BuildingEscape_03\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\BuildingEscapeGameModeBase.cpp.obj"
+/FI"C:\Users\raghu\Documents\cpp_projects\Unreal\Escape your building\BuildingEscape\Source\BuildingEscape\BuildingEscape.h"
+/Yu"C:\Users\raghu\Documents\cpp_projects\Unreal\Escape your building\BuildingEscape\Source\BuildingEscape\BuildingEscape.h"
+/Fp"C:\Users\raghu\Documents\cpp_projects\Unreal\Escape your building\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\PCH.BuildingEscape.h.pch"
+"C:\Users\raghu\Documents\cpp_projects\Unreal\Escape your building\BuildingEscape\Source\BuildingEscape\BuildingEscapeGameModeBase.cpp"
+/Fo"C:\Users\raghu\Documents\cpp_projects\Unreal\Escape your building\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\BuildingEscapeGameModeBase.cpp.obj"
 /TP
 /GR-
 /W4
