@@ -29,7 +29,7 @@ bld/
 */DerivedDataCache
 */Intermediate/
 */Saved
-BuildingEscape/Content/StarterContent/
+/Building Escape/BuildingEscape/Content
 
 #VC files
 *.VC.db
