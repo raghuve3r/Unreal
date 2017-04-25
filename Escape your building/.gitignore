@@ -1,0 +1,12 @@
+#Unreal files
+
+*/Build
+*/Binaries
+*/DerivedDataCache
+*/Intermediate/
+*/Saved
+BuildingEscape/Content/StarterContent/
+
+#VC files
+*.VC.db
+/BuildingEscape/.vs/BuildingEscape/v15/Browse.VC.opendb
