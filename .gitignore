@@ -24,12 +24,12 @@ bld/
 
 #Unreal files
 
-*/Build
-*/Binaries
-*/DerivedDataCache
-*/Intermediate/
-*/Saved
-/Building Escape/BuildingEscape/Content
+/Building Escape/BuildingEscape/Build
+/Building Escape/BuildingEscape/Binaries
+/Building Escape/BuildingEscape/DerivedDataCache
+/Building Escape/BuildingEscape/Intermediate/
+/Building Escape/BuildingEscape/Saved
+/Building Escape/BuildingEscape/Content/StarterContent
 
 #VC files
 *.VC.db
